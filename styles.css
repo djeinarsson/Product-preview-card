@@ -1,0 +1,221 @@
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+
+.imagedesktop {
+  height: 500px;
+  width: 350px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  float: left;
+  margin-right: 35px;
+}
+.imagemobile {
+  height: 250px;
+  width: 340px;
+  top: 30px;
+  right: 17px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  position: absolute;
+}
+.heading {
+  font-family: 'Fraunces', serif;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+.heading2 {
+  font-family: 'Fraunces', serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1;
+  margin: 0;
+  margin-bottom: 5px;
+  padding-left: 25px;
+}
+h2 {
+  color: hsl(228, 12%, 48%);
+  letter-spacing: 4px;
+  font-size: 14px;
+  padding-top: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.subheading {
+  color: hsl(228, 12%, 48%);
+  letter-spacing: 4px;
+  font-size: 14px;
+  padding-top: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+.subheading2 {
+  color: hsl(228, 12%, 48%);
+  letter-spacing: 4px;
+  font-size: 14px;
+  padding-top: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  padding-left: 25px;
+}
+.prices {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  top: 10px;
+}
+
+.description {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  color: hsl(228, 12%, 48%);
+  line-height: 1.5;
+}
+.prices2 {
+  left: 20px;
+}
+
+.description2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  color: hsl(228, 12%, 48%);
+  line-height: 1.5;
+  margin-top: 10px;
+  padding-left: 25px;
+}
+
+.Productcard {
+  height: 500px;
+  width: 700px;
+  margin: 150px auto 0 auto;
+  border-radius: 10px;
+  background-color: hsl(0, 0%, 100%);
+  position: relative;
+}
+.Productcard2 {
+  height: 340px;
+  width: 300px;
+  top: 280px;
+  right: 17px;
+  bottom-left-radius: 10px;
+  bottom-right-radius: 10px;
+  background-color: hsl(0, 0%, 100%);
+  position: absolute;
+}
+
+.textcontent {
+  margin-top: 20px;
+}
+.textcontent2 {
+  margin-top: 270px;
+  width: 340px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 370px;
+  border-radius: 10px;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.price {
+  display: inline-block;
+  color: hsl(158, 36%, 37%);
+  font-size: 38px;
+  font-weight: bold;
+  font-family: 'Croissant One', sans-serif;
+  margin: 0;
+  pad
+}
+
+.discount {
+  display: inline-block;
+  margin-left: 25px;
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
+  position: absolute;
+  top: 15px;
+}
+.price2 {
+  display: inline-block;
+  color: hsl(158, 36%, 37%);
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Croissant One', sans-serif;
+  margin-left: 25px;
+  margin-top: 0;
+}
+
+.discount2 {
+  display: inline-block;
+  padding-left: 30px;
+  margin-bottom: 60px;
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
+  position: relative;
+  margin: 0 auto;
+  bottom: 5px;
+}
+
+.btn {
+  margin-top: 35px;
+  display: block;
+  width: 280px;
+  height: 55px;
+  background-color: hsl(158, 36%, 37%);
+  border-radius: 10px;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #03320F;
+  cursor: pointer;
+}
+.btn2 {
+  margin-left: 8%;
+  position: absolute;
+  bottom: 50px;
+  width: 280px;
+  height: 55px;
+  background-color: hsl(158, 36%, 37%);
+  border-radius: 10px;
+  border: none;
+}
+
+.btn2:hover {
+  background-color: #03320F;
+  cursor: pointer;
+}
+.buttontext {
+  color: white;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  vertical-align: middle;
+  margin-top: 10px;
+}
+
+.iconcart {
+  margin-top: 0;
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.buttontext2 {
+  color: white;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+.iconcart2 {
+  margin-top: 0;
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.attribution2{
+  margin-top: 20px;
+  text-align: center;
+}
